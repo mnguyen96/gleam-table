@@ -1,8 +1,5 @@
 # table
 
-[![Package Version](https://img.shields.io/hexpm/v/table)](https://hex.pm/packages/table)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/table/)
-
 ```sh
 gleam add table
 ```
