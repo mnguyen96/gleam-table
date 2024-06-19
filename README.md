@@ -6,6 +6,7 @@
 ```sh
 gleam add table
 ```
+
 ```gleam
 import table
 
@@ -13,8 +14,6 @@ pub fn main() {
   // TODO: An example of the project in use
 }
 ```
-
-Further documentation can be found at <https://hexdocs.pm/table>.
 
 ## Development
 
